@@ -1,0 +1,1 @@
+# local-comunity-journalizm-app
